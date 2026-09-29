@@ -1,0 +1,13 @@
+{
+  "original_sha256": "36fa1a907e94d5e4b2a4562f366c497a89c076c9f5438603c5a3c9273a2d1988",
+  "exported_functions": 467,
+  "ne_segments": 17,
+  "ne_entries": 1,
+  "gameplay_vtables": 16,
+  "gameplay_virtual_slots": 320,
+  "unique_gameplay_virtual_targets": 121,
+  "indexed_addresses": 737,
+  "unexported_direct_call_targets": 22,
+  "addresses_with_explicit_source_links": 153,
+  "warning": "Links and relocation candidates do not establish implementation parity; inventory is not yet exhaustive."
+}

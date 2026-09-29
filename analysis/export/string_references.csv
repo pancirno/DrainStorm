@@ -1,0 +1,32 @@
+string_address,string,reference_address,function_address,function_name
+"1008:3448","Saved Game *.VKW","1008:0c87","1008:0c70","FUN_1008_0c70"
+"1008:3448","Saved Game *.VKW","1008:0d5d","1008:0d46","FUN_1008_0d46"
+"1008:4542","sdj_DAH_5","1008:4136","1008:40c0","FUN_1008_40c0"
+"1008:454e",")*%^jlsdfjw","1008:4152","1008:40c0","FUN_1008_40c0"
+"1008:455c","7S8F(jw^dk(sh&j","1008:416c","1008:40c0","FUN_1008_40c0"
+"1008:d2c8","Invalid Square Value: ","1008:b17b","1008:b164","FUN_1008_b164"
+"1010:3356","             ","1010:2748","1010:26fe","FUN_1010_26fe"
+"1010:bdf4","Unable to load high scores.","1010:a902","1010:a64a","FUN_1010_a64a"
+"1010:be22","An enchantment lies below your shower drain which alters the laws of nature as follows:
+
+* Each time you move one square, the monsters also move one square, likely in your direction. There is no time limit between your moves.
+
+* Bubbles, Bombs and other projectiles also move one square each time you move. They follow a straight line of motion.
+
+* Your weapons will not harm you. You can step over mines, and bombs will pass right through you.
+
+* You have an endless supply of Bubbles. Other weapons are limited to the amount displayed in your arsenal.","1010:a9be","1010:a966","FUN_1010_a966"
+"1010:c052","* Some weapons are not direction-specific, such as Bomb Bursts and Smart Bombs. These can be used by pressing <Shift> with any arrow key.
+
+* Press number pad key 5 to skip turn (i.e. monsters and projectiles move one square, you don't).
+
+ * A red question-mark is a signpost which may contain helpful information.
+
+* Right-click on any object in the playing field of the Drain to identify it.
+
+* Use the <Shift>-number pad key combination for more than just shooting weapons. You can open doors with keys, deploy decoys, read fortune cookies, and wager at the casino (while on the betting square).","1010:aa46","1010:a9ee","FUN_1010_a9ee"
+"1080:2490","_C_FILE_INFO=","1000:0565","1000:04f0","FUN_1000_04f0"
+"1080:2490","_C_FILE_INFO=","1000:0579","1000:04f0","FUN_1000_04f0"
+"1080:2818","R6000
+- stack overflow
+","1000:0619","1000:05f6","FUN_1000_05f6"

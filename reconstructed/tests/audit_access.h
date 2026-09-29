@@ -1,0 +1,14 @@
+// Test-only access for deterministic phase fixtures. Force-included in every
+// translation unit of the audit test target so MSVC symbol mangling agrees.
+#include <array>
+#include <cstdint>
+#include <filesystem>
+#include <iosfwd>
+#include <string>
+#include <string_view>
+#include <unordered_map>
+#include <vector>
+#include <windows.h>
+#define private public
+#include "application_state.h"
+#undef private

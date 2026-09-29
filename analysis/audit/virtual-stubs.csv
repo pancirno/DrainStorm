@@ -1,0 +1,46 @@
+target,classification,complete_instructions
+1008:b786,empty-callback,retf 6
+1008:bc56,zero-return,"xor ax, ax; retf 0xa"
+1008:bc5c,empty-callback,retf 4
+1008:bc60,empty-callback,retf 0xc
+1008:cfea,empty-callback,retf 0xc
+1008:cfee,empty-callback,retf 4
+1008:cff2,empty-callback,retf 4
+1008:cff6,zero-return,"xor ax, ax; retf 6"
+1008:cffc,empty-callback,retf 4
+1008:dfa2,zero-return,"xor ax, ax; retf 4"
+1008:dfa8,zero-return,"xor ax, ax; retf 4"
+1008:e632,empty-callback,retf 6
+1008:eebe,empty-callback,retf 0xc
+1010:0d26,constant-return,"mov ax, 6; retf 4"
+1010:0d2c,constant-return,"mov ax, 0x18; retf 4"
+1010:117c,empty-callback,retf 6
+1010:2e80,constant-return,"mov ax, 5; retf 4"
+1010:2e86,constant-return,"mov ax, 0x94; retf 4"
+1010:379e,empty-callback,retf 6
+1010:39f6,constant-return,"mov ax, 0xa; retf 4"
+1010:39fc,constant-return,"mov ax, 6; retf 4"
+1010:3d4c,empty-callback,retf 6
+1010:3fc4,constant-return,"mov ax, 9; retf 4"
+1010:3fca,constant-return,"mov ax, 8; retf 4"
+1010:4e32,constant-return,"mov ax, 1; retf 4"
+1010:4e38,zero-return,"xor ax, ax; retf 4"
+1010:5542,constant-return,"mov ax, 0xd; retf 4"
+1010:5548,constant-return,"mov ax, 4; retf 4"
+1010:5f0c,constant-return,"mov ax, 4; retf 4"
+1010:5f12,constant-return,"mov ax, 0xe; retf 4"
+1010:69a4,constant-return,"mov ax, 2; retf 4"
+1010:69aa,zero-return,"xor ax, ax; retf 4"
+1010:737a,constant-return,"mov ax, 3; retf 4"
+1010:7380,constant-return,"mov ax, 0x10; retf 4"
+1010:9050,constant-return,"mov ax, 0xc; retf 4"
+1010:9056,constant-return,"mov ax, 2; retf 4"
+1010:cb1a,constant-return,"mov ax, 0xb; retf 4"
+1010:cb20,zero-return,"xor ax, ax; retf 4"
+1010:d2ba,constant-return,"mov ax, 0xe; retf 4"
+1010:d2c0,constant-return,"mov ax, 2; retf 4"
+1010:d87e,constant-return,"mov ax, 0x11; retf 4"
+1010:d884,zero-return,"xor ax, ax; retf 4"
+1010:d964,empty-callback,retf 6
+1010:dbfe,constant-return,"mov ax, 0x10; retf 4"
+1010:dc04,zero-return,"xor ax, ax; retf 4"

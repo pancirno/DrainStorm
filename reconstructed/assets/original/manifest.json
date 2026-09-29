@@ -1,0 +1,371 @@
+[
+  {
+    "type": "14",
+    "id": "MAINICON",
+    "file": "group_icon_MAINICON.bin",
+    "offset": 169088,
+    "length": 32,
+    "flags": "0x1C30",
+    "sha256": "8632931B4DA7244F77E15616CB790DD0CBC45F64068FDB620DF47DB43B86E2A2"
+  },
+  {
+    "type": "14",
+    "id": "VULPINEICON",
+    "file": "group_icon_VULPINEICON.bin",
+    "offset": 169120,
+    "length": 32,
+    "flags": "0x1C30",
+    "sha256": "6B33277A441AF7C42A1079EAB31788C513EF9C420FD16A830AC4FD6325722DA2"
+  },
+  {
+    "type": "2",
+    "id": "BOARD_BITMAPS",
+    "file": "bitmap_BOARD_BITMAPS.dib",
+    "offset": 169152,
+    "length": 107024,
+    "flags": "0x0C30",
+    "sha256": "4B451DD7E6B26061A47406516F7DD09BCB2912F962C63E362683EDFAD198DE2D"
+  },
+  {
+    "type": "5",
+    "id": "HURLABOUT",
+    "file": "dialog_HURLABOUT.bin",
+    "offset": 276176,
+    "length": 64,
+    "flags": "0x1C30",
+    "sha256": "B28EF3714B827194043DFCEFBAF479D9A64A112D4291463181625957F927BC56"
+  },
+  {
+    "type": "5",
+    "id": "DIFFICULTYLEVEL",
+    "file": "dialog_DIFFICULTYLEVEL.bin",
+    "offset": 276240,
+    "length": 224,
+    "flags": "0x1C30",
+    "sha256": "BA6BC53AF080E1FFF48C2F078BDD083E0E9CF9974855C5DBAB118FAC71B59CE1"
+  },
+  {
+    "type": "5",
+    "id": "HIGHSCORENAME",
+    "file": "dialog_HIGHSCORENAME.bin",
+    "offset": 276464,
+    "length": 144,
+    "flags": "0x1C30",
+    "sha256": "134AD7E0B6EA1F4C2B21BD0E85FB217B4716CBD74B70E384F8B2DDBFE0A7D0E9"
+  },
+  {
+    "type": "5",
+    "id": "BALLSHELP",
+    "file": "dialog_BALLSHELP.bin",
+    "offset": 276608,
+    "length": 304,
+    "flags": "0x1C30",
+    "sha256": "85634A9915715F2002E0E6393DC71D033D13B8E3684A04C807F43E6CF97F5D54"
+  },
+  {
+    "type": "5",
+    "id": "IDD_REGISTER",
+    "file": "dialog_IDD_REGISTER.bin",
+    "offset": 276912,
+    "length": 192,
+    "flags": "0x1C30",
+    "sha256": "734442B4870C49A1129BEC91DFE4035B8379E9A491F2DA588B7C07DFFBD9CBE4"
+  },
+  {
+    "type": "3",
+    "id": "1",
+    "file": "icon_1.bin",
+    "offset": 277104,
+    "length": 752,
+    "flags": "0x1C30",
+    "sha256": "639BDBE6E4CB71C82FA95CDCADC9B08B9669B7DFFAB2E7D144E987623A5E6F6D"
+  },
+  {
+    "type": "3",
+    "id": "2",
+    "file": "icon_2.bin",
+    "offset": 277856,
+    "length": 752,
+    "flags": "0x1C30",
+    "sha256": "077FE042A6A146D73AA72FF21AFC83D38855B01FB6E9EA3A5CA61DAE93FC3CED"
+  },
+  {
+    "type": "WAVE",
+    "id": "SND1_THUK",
+    "file": "wave_SND1_THUK.wav",
+    "offset": 278608,
+    "length": 992,
+    "flags": "0x0C30",
+    "sha256": "B7E07B23E3CFCC1DB44A42F7CD3E93076B6CE3AC1155A55C8D19CDC6B5DE742C"
+  },
+  {
+    "type": "WAVE",
+    "id": "SND3_THUKS",
+    "file": "wave_SND3_THUKS.wav",
+    "offset": 279600,
+    "length": 3584,
+    "flags": "0x0C30",
+    "sha256": "265B1506E1258BD85C457C898EF1E41FF69F6C1164435E65E99069305BADFBFB"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDBOMB_SHOT",
+    "file": "wave_SNDBOMB_SHOT.wav",
+    "offset": 283184,
+    "length": 2304,
+    "flags": "0x0C30",
+    "sha256": "BD317C4A03936A19923164E84ECB1058839B171C43C52253293EEBD10203E4D5"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDBOMB_SHOTX8",
+    "file": "wave_SNDBOMB_SHOTX8.wav",
+    "offset": 285488,
+    "length": 3648,
+    "flags": "0x0C30",
+    "sha256": "C80C6B44279221B3095200DD1A60AF518C736738727E22BB79CD99D44C74C5C0"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDMISSILE_LAUNCH",
+    "file": "wave_SNDMISSILE_LAUNCH.wav",
+    "offset": 289136,
+    "length": 5904,
+    "flags": "0x0C30",
+    "sha256": "034C9475C7C14E913874C96959293B2AED7862604A5AAC1A58C2088AFA1FE74C"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDMISSILE_LAUNCHX8",
+    "file": "wave_SNDMISSILE_LAUNCHX8.wav",
+    "offset": 295040,
+    "length": 5904,
+    "flags": "0x0C30",
+    "sha256": "034C9475C7C14E913874C96959293B2AED7862604A5AAC1A58C2088AFA1FE74C"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDDEAD_XOID",
+    "file": "wave_SNDDEAD_XOID.wav",
+    "offset": 300944,
+    "length": 3056,
+    "flags": "0x0C30",
+    "sha256": "71095E66A67B91838E142A14A12757EBAF6ED5F2ECD0DF01253D88B9238CAD4B"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDDEAD_XOID2",
+    "file": "wave_SNDDEAD_XOID2.wav",
+    "offset": 304000,
+    "length": 4512,
+    "flags": "0x0C30",
+    "sha256": "03F7E3F85B8BC1739CD67EA616CE7976C5E6EB847645E2589B99917B8E1091E1"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDDEAD_XOID3",
+    "file": "wave_SNDDEAD_XOID3.wav",
+    "offset": 308512,
+    "length": 5952,
+    "flags": "0x0C30",
+    "sha256": "85F641520B98EDCB9471933FA4689605D255B52073AC5F4E81DB221ECE7E2C6B"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDPOP",
+    "file": "wave_SNDPOP.wav",
+    "offset": 314464,
+    "length": 800,
+    "flags": "0x0C30",
+    "sha256": "F1676B4AF1ED65287C75934FA1932BBEDC057A1520FD00F8A83492A1FB4B7F96"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDDOUBLE_POP",
+    "file": "wave_SNDDOUBLE_POP.wav",
+    "offset": 315264,
+    "length": 1504,
+    "flags": "0x0C30",
+    "sha256": "8EBCF7B71C6D55E1EE41CB44374A833AFA91595D16A4C000AA7FC7F270E932C6"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDTRIPLE_POP",
+    "file": "wave_SNDTRIPLE_POP.wav",
+    "offset": 316768,
+    "length": 2208,
+    "flags": "0x0C30",
+    "sha256": "4D49E00890D10AC18912930AC59F3DF9AE1D84984528EC24C8499F1C9DA43BE5"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDEXPLODE1",
+    "file": "wave_SNDEXPLODE1.wav",
+    "offset": 318976,
+    "length": 5728,
+    "flags": "0x0C30",
+    "sha256": "141B3CE609C6E97EFBB045AC3006C0B3DC36409FE436FEEAC098A345402ED3CA"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDPLAYER_HIT",
+    "file": "wave_SNDPLAYER_HIT.wav",
+    "offset": 324704,
+    "length": 4416,
+    "flags": "0x0C30",
+    "sha256": "5F53E242DB42C0E174CF42CE720E4AB3B3640A4EAFE170851107A9219239ACE7"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDPLAYER_HIT_TWICE",
+    "file": "wave_SNDPLAYER_HIT_TWICE.wav",
+    "offset": 329120,
+    "length": 6032,
+    "flags": "0x0C30",
+    "sha256": "1E6DF4326A5847C3765E81893CAC0B730AE48FD206C9C626DC6DA603F6FE467F"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDPLAYER_DIES",
+    "file": "wave_SNDPLAYER_DIES.wav",
+    "offset": 335152,
+    "length": 8784,
+    "flags": "0x0C30",
+    "sha256": "512C1584883856356BA8D601F66996F7EEE9AFDC1E0031BB26FDE260DF8514F6"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDCRACKLE",
+    "file": "wave_SNDCRACKLE.wav",
+    "offset": 343936,
+    "length": 5536,
+    "flags": "0x0C30",
+    "sha256": "C6BC0F8F452DE564AEACAE0B9C091CFC82D049CF9051ED35425CD8B6D59369E2"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDCASINOBET",
+    "file": "wave_SNDCASINOBET.wav",
+    "offset": 349472,
+    "length": 1248,
+    "flags": "0x0C30",
+    "sha256": "BE514A1B143B19A2EFEFF1AC1E0D00022CF18477E00B365E8F0501373D0AE82D"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDCASINOWIN",
+    "file": "wave_SNDCASINOWIN.wav",
+    "offset": 350720,
+    "length": 27152,
+    "flags": "0x0C30",
+    "sha256": "C825CB543E43CD29664C6D1E1575FAF135DD8452C280218F3E433BB52BDB666E"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDCASINOLOSE",
+    "file": "wave_SNDCASINOLOSE.wav",
+    "offset": 377872,
+    "length": 16704,
+    "flags": "0x0C30",
+    "sha256": "6111DA342B8548BFDA4E07A144060835DD57FED47793BCCD55EC568CB26E6416"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDCASINODRAWLEV",
+    "file": "wave_SNDCASINODRAWLEV.wav",
+    "offset": 394576,
+    "length": 9376,
+    "flags": "0x0C30",
+    "sha256": "1457DBDC8ACE7AC87A286A24363026F68FDDE9961B98409439BAD93F71DF65C1"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDDOOROPEN",
+    "file": "wave_SNDDOOROPEN.wav",
+    "offset": 403952,
+    "length": 9504,
+    "flags": "0x0C30",
+    "sha256": "4C92B948C0565DD248B1EF547584682DC39C664A5101B13F87610C10B1A89187"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDSPEC_DOOROPEN",
+    "file": "wave_SNDSPEC_DOOROPEN.wav",
+    "offset": 413456,
+    "length": 9504,
+    "flags": "0x0C30",
+    "sha256": "4C92B948C0565DD248B1EF547584682DC39C664A5101B13F87610C10B1A89187"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDDOOWUK",
+    "file": "wave_SNDDOOWUK.wav",
+    "offset": 422960,
+    "length": 3616,
+    "flags": "0x0C30",
+    "sha256": "15D789F0B5A3A7D93CA30564D7E14D043CF2D4740BBBD5394EE9857F59FA1D69"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDWAKEUP",
+    "file": "wave_SNDWAKEUP.wav",
+    "offset": 426576,
+    "length": 5360,
+    "flags": "0x0C30",
+    "sha256": "31F02C70E5EF72BF5091AAC70735EDE9D950FA3BE100C4C372ED769979CDF9C8"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDEXPLODE2",
+    "file": "wave_SNDEXPLODE2.wav",
+    "offset": 431936,
+    "length": 15328,
+    "flags": "0x0C30",
+    "sha256": "8B15A8762A4ED723B7AC8105B74DCE7245D3E505D1B584A30663F64287B05895"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDEXPLODE3",
+    "file": "wave_SNDEXPLODE3.wav",
+    "offset": 447264,
+    "length": 12272,
+    "flags": "0x0C30",
+    "sha256": "AA2C4BC26E12D9F75705724B607C84D5B6B91D058722FD304C06F467BD5EF061"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDRADIO_BEEP",
+    "file": "wave_SNDRADIO_BEEP.wav",
+    "offset": 459536,
+    "length": 5488,
+    "flags": "0x0C30",
+    "sha256": "86EAC99A6CCD3A034EF7C6E75E1CBC5B25EC44089F1FF63B15647C491702F1B2"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDYEOW",
+    "file": "wave_SNDYEOW.wav",
+    "offset": 465024,
+    "length": 4768,
+    "flags": "0x0C30",
+    "sha256": "D4C5EF3A5AE3904C03464009E01813F4D071A43A73FD0617DB7EF69F2B128098"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDTREASURE1",
+    "file": "wave_SNDTREASURE1.wav",
+    "offset": 469792,
+    "length": 12160,
+    "flags": "0x0C30",
+    "sha256": "92AAD4E79574487A3665F6D1C48123727BC04525C12B9954A77D79D522D627E2"
+  },
+  {
+    "type": "WAVE",
+    "id": "SNDTREASURE2",
+    "file": "wave_SNDTREASURE2.wav",
+    "offset": 481952,
+    "length": 4864,
+    "flags": "0x0C30",
+    "sha256": "D60C33018E8A5A29C052C9348D0046AAB713D68F44A78646E011593DE33D877B"
+  }
+]

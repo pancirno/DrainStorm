@@ -1,0 +1,34 @@
+1008:3bd0  PUSH BP
+1008:3bd1  MOV BP,SP
+1008:3bd3  PUSH DI
+1008:3bd4  PUSH SI
+1008:3bd5  MOV DI,word ptr [BP + 0x6]
+1008:3bd8  MOV SI,word ptr [BP + 0xe]
+1008:3bdb  MOV ES,word ptr [BP + 0x8]
+1008:3bde  PUSH word ptr ES:[DI + 0x4]
+1008:3be2  IMUL AX,word ptr [BP + 0xc],0xc
+1008:3be6  PUSH AX
+1008:3be7  IMUL AX,word ptr [BP + 0xa],0xc
+1008:3beb  PUSH AX
+1008:3bec  MOV AX,ES
+1008:3bee  MOV ES,word ptr [0x2808]
+1008:3bf2  IMUL BX,SI,0xa
+1008:3bf5  IMUL CX,word ptr ES:[BX + 0x6],0xc
+1008:3bfb  PUSH CX
+1008:3bfc  IMUL CX,word ptr ES:[BX + 0x8],0xc
+1008:3c02  PUSH CX
+1008:3c03  MOV ES,AX
+1008:3c05  PUSH word ptr ES:[DI]
+1008:3c08  MOV ES,word ptr [0x2808]
+1008:3c0c  IMUL AX,word ptr ES:[BX + 0x2],0xc
+1008:3c12  PUSH AX
+1008:3c13  IMUL AX,word ptr ES:[BX + 0x4],0xc
+1008:3c19  PUSH AX
+1008:3c1a  PUSH 0xcc
+1008:3c1d  PUSH 0x20
+1008:3c1f  CALLF 0x11d0:0088
+1008:3c24  MOV AX,0x1
+1008:3c27  POP SI
+1008:3c28  POP DI
+1008:3c29  LEAVE
+1008:3c2a  RETF 0xa

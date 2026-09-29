@@ -1,0 +1,80 @@
+[
+  {
+    "file": "sprite_map.bin",
+    "description": "475 sprite atlas records: id, x, y, width, height",
+    "length": 4750,
+    "sha256": "E7CB81CC920A74D39FDFDE3666773596DA9F1773DDE7807B01F3D59FF65AD94E"
+  },
+  {
+    "file": "tile_descriptors.bin",
+    "description": "192 tile records: sprite index, flags, value",
+    "length": 1152,
+    "sha256": "2384AA27DE150BE17015D945CD40C9DBDBE4B05BDDD8315DBB7308E9A5B5973B"
+  },
+  {
+    "file": "overlay_sprites.bin",
+    "description": "46 signed sprite indices for board overlay objects",
+    "length": 92,
+    "sha256": "92BDDC0EA5CA636D50E85DA7CB405ED1DB19246F8C577D298D61F52B024A42F3"
+  },
+  {
+    "file": "item_descriptors.bin",
+    "description": "22 arsenal item records of 34 bytes",
+    "length": 748,
+    "sha256": "12B1D8FEEA4CDF0B766A2349415A3ED312CD2D8CE5E5EBF046F468B8986A0215"
+  },
+  {
+    "file": "levels/level_01.map",
+    "description": "Level 1: 36 null-terminated rows of 40 characters",
+    "length": 1476,
+    "sha256": "069DEA93DC4FF7490984D62A7B3C509D89A8D2CD85FE6F0E0613530B847EA7EF"
+  },
+  {
+    "file": "levels/level_02.map",
+    "description": "Level 2: 36 null-terminated rows of 40 characters",
+    "length": 1476,
+    "sha256": "703951A6B41D33D40165D912828115CF89A1A5294AE807E4884A47E613445E3C"
+  },
+  {
+    "file": "levels/level_03.map",
+    "description": "Level 3: 36 null-terminated rows of 40 characters",
+    "length": 1476,
+    "sha256": "726BD3C3F0719CD00D4867614B62EE4146CEB2FEF05D2FBDEF8604EFF94DDB46"
+  },
+  {
+    "file": "levels/level_04.map",
+    "description": "Level 4: 36 null-terminated rows of 40 characters",
+    "length": 1476,
+    "sha256": "64C65D0E655EC8BAA808FDBA4EAB3D5930609E4274D3C876C092061A3812DB0C"
+  },
+  {
+    "file": "levels/level_05.map",
+    "description": "Level 5: 36 null-terminated rows of 40 characters",
+    "length": 1476,
+    "sha256": "038A16CA1C4C50C0A5DB20791F1F3A13E0DCA3F71C660F5370CFD97AE0C450C1"
+  },
+  {
+    "file": "levels/level_06.map",
+    "description": "Level 6: 36 null-terminated rows of 40 characters",
+    "length": 1476,
+    "sha256": "C979E6AC56224B1907CEC4E94121569854F3BFD01808B43371160FE9D572DCBB"
+  },
+  {
+    "file": "levels/level_07.map",
+    "description": "Level 7: 36 null-terminated rows of 40 characters",
+    "length": 1476,
+    "sha256": "E24876E32C44CFD93D4F22415DB8833019D228BA87B7001DFDCBFBEB168FC2FD"
+  },
+  {
+    "file": "levels/level_08.map",
+    "description": "Level 8: 36 null-terminated rows of 40 characters",
+    "length": 1476,
+    "sha256": "E14DAC8FBD08E766EA1B454BC0EA691919B85F06164088DE029646DECDE5347E"
+  },
+  {
+    "file": "levels/level_09.map",
+    "description": "Level 9: 36 null-terminated rows of 40 characters",
+    "length": 1476,
+    "sha256": "B4B6D4281921E634E8BC0DD9FF99B3606AB58AD7284DF45EF641502DF5F1104F"
+  }
+]

@@ -1,0 +1,22 @@
+# Native build products
+*.obj
+*.pdb
+*.ilk
+reconstructed/bin/
+reconstructed/build/
+reconstructed/build-*/
+reconstructed/cmake-build/
+
+# Local reverse-engineering tools and caches
+tools/third-party/
+analysis/ghidra-runtime/
+analysis/ghidra/*.gpr
+analysis/ghidra/*.rep/
+
+# Editor and operating-system files
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
+*.user
+*.suo
